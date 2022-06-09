@@ -1,0 +1,10 @@
+.navbar {
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading {
+    color: #fff;
+}
